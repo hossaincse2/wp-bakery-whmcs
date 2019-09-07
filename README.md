@@ -14,3 +14,5 @@ This plugin adds new element / widget such as: Domain Search, Live domain Search
 ##### Pricing table with choice of your currency from WHMCS!
 ##### Normal pricing table.
 ##### Domain Search and post to WHMCS
+
+See More https://wordpress.org/plugins/void-visual-whmcs-element
